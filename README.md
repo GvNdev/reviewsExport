@@ -64,6 +64,8 @@ console.save(finalReviews, 'nombreDelArchivo.json')
 
 2. Abrir una consola en la carpeta principal del proyecto, y ejecutar el comando `npm install`
 
-3. Ejecutar el archivo index.js con el comando `node index.js`
+3. Colocar los diferentes JSON de reviews dentro de la carpeta `reviews`
 
-4. El archivo resultante se guardará dentro de la carpeta `export` con el nombre `reviewsExportAAAA-MM-DD.csv` (ej: `reviewsExport2022-09-15.csv`)
+4. Ejecutar el archivo index.js con el comando `node index.js`
+
+5. El archivo resultante se guardará dentro de la carpeta `export` con el nombre `reviewsExportAAAA-MM-DD.csv` (ej: `reviewsExport2022-09-15.csv`)
